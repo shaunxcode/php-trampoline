@@ -30,5 +30,5 @@ function fact($n) {
 }
 
 
-echo Trampoline::fact(150); 
+echo Trampoline::fact(10000); 
 echo "\n"; 
